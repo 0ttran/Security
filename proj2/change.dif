@@ -1,0 +1,15 @@
+This difference file is created by The Interactive Disassembler
+
+authenticate_yourself.exe
+000004FC: 75 90
+000004FD: 5F 90
+0000052B: 85 90
+0000052C: C0 90
+0000052D: 75 90
+0000052E: 27 90
+00000754: 56 90
+00000755: E8 90
+00000756: 8A 90
+00000757: 09 90
+00000758: 00 90
+00000759: 00 90
