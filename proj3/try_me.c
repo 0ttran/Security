@@ -22,7 +22,7 @@ void log_result()
 
 void log_result_advanced(int print)
 {
-    if(print == 16843009)
+    if(print == 0xefbeadde)
     {
         char filename2[100];
         int uid = getuid();
